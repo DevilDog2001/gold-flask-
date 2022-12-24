@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.form{
+    margin-top: 25px;
+    display: flex;
+    height: 180px;
+    width: 200px;
+    border: solid black 2px;
+}
+.table2{
+    margin: 50px;
+    margin-right: 10px;
+}
